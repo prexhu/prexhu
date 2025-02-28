@@ -21,7 +21,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-Matlab-FF7733?style=flat-square&logo=MATLAB&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF7733?style=flat-square&logo=MATLAB&logoColor=white)
 
 ---
 
