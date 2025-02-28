@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/prexhu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6C71C4&center=true&vCenter=true&width=435&lines=Robotics+%7C+SLAM+%7C+MPC;Building+CapuBot+🤖;Exploring+Autonomy+in+Robots" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6C71C4&center=true&vCenter=true&width=435&lines=Robotics+%7C+SLAM+%7C+Control;Building+CapuBot+🤖;Exploring+Autonomy+in+Robots" />
   </a>
 </p>
 
